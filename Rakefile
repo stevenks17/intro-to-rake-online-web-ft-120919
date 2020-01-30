@@ -21,4 +21,3 @@
      Student.create_table
    end
  end
-end
